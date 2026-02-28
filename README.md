@@ -72,46 +72,32 @@ CREATE TABLE students (
     address VARCHAR(255) NOT NULL
 );
 ```
+Video LInk:
+The working video of the working of the project is:
 
 ---
 
 ## ⚙️ Installation Guide
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/student-management.git
-```
-
-2. Move project folder to:
+1. Move project folder to:
 
 ```
 htdocs (XAMPP)
-or
-www (WAMP)
+
 ```
 
-3. Start:
+2. Start:
 
 * Apache Server
 * MySQL Server
 
-4. Import database in **phpMyAdmin**
+3. Import database in **phpMyAdmin**
 
-5. Configure database connection in `db.php`
+4. Configure database connection in `db.php`
 
 ```php
-$conn = mysqli_connect("localhost","root","","student_db");
+$conn = mysqli_connect("localhost","root","","testdb");
 ```
-
-6. Open browser:
-
-```
-http://localhost/student-management/
-```
-
----
-
 ## 📸 System Functionalities
 
 ### ➕ Insert
@@ -133,20 +119,6 @@ http://localhost/student-management/
 * Success message displayed after deletion.
 
 
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
-```
-
----
-
-✅ This README looks **professional for GitHub portfolios**  
-✅ Suitable for **semester/project submission**  
-✅ Recruiter-friendly documentation  
 
 If you want, I can also make a **🔥 GitHub-level README with screenshots, badges, and live demo section** (looks much more professional).
 ```
