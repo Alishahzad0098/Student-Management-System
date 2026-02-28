@@ -117,8 +117,3 @@ $conn = mysqli_connect("localhost","root","","testdb");
 
 * Confirmation alert before deletion.
 * Success message displayed after deletion.
-
-
-
-If you want, I can also make a **🔥 GitHub-level README with screenshots, badges, and live demo section** (looks much more professional).
-```
