@@ -1,10 +1,4 @@
-Here’s a clean and professional **README.md** file you can upload directly to your GitHub repository ✅
 
-You can copy-paste this into a file named **README.md**.
-
----
-
-```
 # 🎓 Student Management System (PHP & MySQL)
 
 A simple **Student Management System** built using **PHP, MySQL, HTML, CSS, and JavaScript**.  
