@@ -118,3 +118,13 @@ $conn = mysqli_connect("localhost","root","","testdb");
 
 * Confirmation alert before deletion.
 * Success message displayed after deletion.
+
+### 👨‍💻 Author
+
+Your Name Here
+
+GitHub: https://github.com/Alishahzad0098
+
+###📄 License
+
+This project is open-source and free to use for learning purposes.
